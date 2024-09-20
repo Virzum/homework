@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.zav {
+    background-color: antiquewhite;
+    display:inline-block;
+    height: 250px;
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #000;
+    border-radius: 20px;
+
+}
+.boss{
+    background-color: beige;
+    border: 2px solid #000;
+    height: 650px;
+    margin: 10px;
+    overflow: scroll;
+    border-radius: 20px 0 0 20px ;
+}
